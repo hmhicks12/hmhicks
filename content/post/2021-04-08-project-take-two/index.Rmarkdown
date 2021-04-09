@@ -1,14 +1,14 @@
 ---
-title: Project 2
+title: Project Take Two
 author: Harrison Hicks
 date: '2021-04-08'
-slug: project-2
+slug: project-take-two
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2021-04-08T16:31:32-04:00'
+lastmod: '2021-04-08T20:36:31-04:00'
 featured: no
 image:
   caption: ''
@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-##base map
+##Take Two
 
-![basemap](Base Map.jpg)
-description 
+![](Zoning Map copy.jpg)
+
