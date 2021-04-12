@@ -1,0 +1,18 @@
+---
+title: Oregon Watershed Analysis
+author: Harrison Hicks
+date: '2021-04-12'
+slug: oregon-watershed-analysis
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-12T14:27:01-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
