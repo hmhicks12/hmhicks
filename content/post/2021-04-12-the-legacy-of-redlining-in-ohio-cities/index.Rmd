@@ -11,10 +11,9 @@ authors: []
 lastmod: '2021-04-12T14:27:59-04:00'
 featured: no
 image:
-  caption: 'Image credit:
-  [**Unsplash](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: no
 projects: []
 ---
 
