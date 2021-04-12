@@ -6,7 +6,7 @@ slug: the-legacy-of-redlining-in-ohio-cities
 categories: []
 tags: []
 subtitle: 'An analysis of the lasting impacts the practice of redlining has had on Ohio cities.'
-summary: ''
+summary: 'An analysis of the lasting impacts the practice of redlining has had on Ohio cities.'
 authors: []
 lastmod: '2021-04-12T14:27:59-04:00'
 featured: no
@@ -20,7 +20,7 @@ projects: []
 ## Lima
 
 ![](Lima 0 map.jpg)
-1930s Ohio Redlined Districts
+                       1930s Ohio Redlined Districts
 
 ![](Lima 1 Districts.jpg)
 
