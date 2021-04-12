@@ -19,7 +19,7 @@ projects: []
 
 ##Take Two
 
-![](/static/media/boards.jpg)
+![](Zoning Map copy.jpg)
 
 
 
