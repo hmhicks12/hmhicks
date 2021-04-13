@@ -5,8 +5,8 @@ date: '2021-04-12'
 slug: nebraska-fire-station-analysis
 categories: []
 tags: []
-subtitle: ''
-summary: ''
+subtitle: 'A response time analysis of the Douglas County Fire Station network. To complete this task, skill such as geocoding, reverse geocoding and network analysis were used.'
+summary: 'A response time analysis of the Douglas County Fire Station network. To complete this task, skill such as geocoding, reverse geocoding and network analysis were used.'
 authors: []
 lastmod: '2021-04-12T18:30:52-04:00'
 featured: no
@@ -16,3 +16,18 @@ image:
   preview_only: no
 projects: []
 ---
+For this project, I created a deck of visualization to help identify gaps in the Douglas County Fire station network. For a real-life project, these figures could be used to help plan the construction of new fire stations to improve the network's coverage.
+
+![](Nebraska Fire Response (1).jpg)
+
+The next two maps show a visualization of response times to a potential fire (randomly generated).
+
+![](Nebraska Fire Response (2).jpg)
+
+![](Nebraska Fire Response (3) .jpg)
+
+The final two maps show the service areas of each Douglas County Fire Station in regards to certain time intervals. This information can help highlight areas that receive inadequate fire safety coverage.
+
+![](Nebraska Fire Response (4.5) .jpg)
+
+![](Nebraska Fire Response (5).jpg)
