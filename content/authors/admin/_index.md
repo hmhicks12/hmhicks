@@ -31,6 +31,6 @@ title: Harrison Hicks
 
 Harrison Hicks is a Denison University class of 2021 student studying Economics and Environmental Studies. While at Denison, Harrison has become interested in GIS applications (qGIS & ArcGIS). He has developed a strong portfolio after completing 1 year of coursework in the field.
 
-Harrison plans to pursue a GIS related career post grad. He would like to be able to use and grow his current skills to be able to help solve real world problems.
+Harrison plans to pursue a GIS related career post grad. He would like to be able to use and grow his current skills to help solve real world problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Harrison Hicks- Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
