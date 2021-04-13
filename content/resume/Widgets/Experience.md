@@ -26,8 +26,8 @@ experience:
     company: Red Frame Lab Consultancy
     company_url: ''
     location: Granville, Oh (Remote)
-    date_start: 'Summer 2020'
-    date_end: ''
+    date_start: '2020-06-01'
+    date_end: '2020-08-01'
     description: |2-
         Responsibilities included:
         
@@ -39,8 +39,8 @@ experience:
     company: Hull Street Energy
     company_url: ''
     location: Washington, D.C. (Remote)
-    date_start: 'Summer 2020'
-    date_end: ''
+    date_start: '2020-06-01'
+    date_end: '2020-08-01'
     description: |2-
       Responsibilities included:
       
@@ -51,8 +51,8 @@ experience:
     company: Bandersnatch Coffee House
     company_url: ''
     location: Granville, Ohio
-    date_start: '2018'
-    date_end: '2019'
+    date_start: '2018-08-01'
+    date_end: '2019-05-01'
     description: |2-
       Responsibilities included:
       
@@ -77,8 +77,8 @@ experience:
     company: Larry Asimow Landscaping
     company_url: ''
     location: Chicago, IL
-    date_start: 'Summer 2019,2020'
-    date_end: ''
+    date_start: '2019-06-01'
+    date_end: '2020-08-01'
     description: |2-
       Responsibilities included:
       
