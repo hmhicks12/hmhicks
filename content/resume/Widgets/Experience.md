@@ -61,7 +61,7 @@ experience:
       *Performed daily bookkeeping
       *Coordinated with campus advisors and local food safety inspectors
       
-  - title: Secretary
+  - title: Office Assistant
     company: Denison University Environmental Studies Department
     company_url: ''
     location: Granville, Ohio
