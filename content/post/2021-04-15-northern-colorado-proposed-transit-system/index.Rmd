@@ -1,0 +1,44 @@
+---
+title: Northern Colorado Proposed Transit System
+author: Harrison Hicks
+date: '2021-04-15'
+slug: northern-colorado-proposed-transit-system
+categories: []
+tags: []
+subtitle: 'This analysis continues the study of growing populations in Northern Colorado by proposing a new transit system. To complete this study, vector tools and the Beeline plugin were used.'
+summary: 'This analysis continues the study of growing populations in Northern Colorado by proposing a new transit system. To complete this study, vector tools and the Beeline plugin were used.'
+authors: []
+lastmod: '2021-04-15T11:36:08-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+With growing populations in Fort Collins and Loveland, CO, transit expansion will soon be required. For this project, I proposed a new 50km rail line that will connect the two cities. I have proposed two different systems, each of which have their transit stops located near important regional centers.
+
+![](Base Map.jpg)
+
+## Transit Line #1
+
+![](City Centers 1.jpg)
+This map shows a selection of important regional centers where future transit stops will be located.
+
+![](Serviced Areas 1.jpg)
+To help visualize accessibility, this map highlights the buildings and parcels that will be within 1km (10 minutes walk) of each transit stop.
+
+![](Transit Line 1.jpg)
+Finally, this map shows the route of the proposed Transit Line #1.
+
+## Transit Line #2
+
+![](City Centers 2.jpg)
+This second proposal selects a new set of important regional centers. This route is slightly longer than Transit Line #1, but it contains an extra stop along its route to provide transit access to more people.
+
+![](Serviced Areas 2.jpg)
+Similar to the first proposal, this second map highlights the buildings and parcels within 1km of each proposed transit stop.
+
+![](Transit Line 2.jpg)
+Lastly, this map shows the route of Transit Line #2

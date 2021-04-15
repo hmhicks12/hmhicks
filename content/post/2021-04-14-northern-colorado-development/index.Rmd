@@ -17,12 +17,15 @@ image:
 projects: []
 ---
 
-## Fort Collins and Loveland, CO Development
+## Residential Expansion in Fort Collins and Loveland, CO
 
 With populations in Northern Colorado growing rapidly, many new developments must be built to help accommodate. In this project, I prepare a mock proposal providing a double phased plan for both Fort Collins and Loveland. Each of the planned developments fulfill the following building codes to comply with CO building codes (codes are unofficial for the purpose of the exercise):
-  Adjacent to existing residential districts
-  Further than 100m from protected open space / natural area
-  Further than 100m from surface water
+
+  - Adjacent to existing residential districts
+  
+  - Further than 100m from protected open space / natural area
+  
+  - Further than 100m from surface water
 
 ![](Base Map.jpg)
 
