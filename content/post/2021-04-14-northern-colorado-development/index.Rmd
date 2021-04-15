@@ -1,0 +1,42 @@
+---
+title: Northern Colorado Development
+author: Harrison Hicks
+date: '2021-04-14'
+slug: northern-colorado-development
+categories: []
+tags: []
+subtitle: 'A mock development proposal to help expand the residential districts of two Northern Colorado cities. To create this project, location suitability and vector tools were used.'
+summary: 'A mock development proposal to help expand the residential districts of two Northern Colorado cities. To create this project, location suitability and vector tools were used.'
+authors: []
+lastmod: '2021-04-14T20:31:27-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Fort Collins and Loveland, CO Development
+
+With populations in Northern Colorado growing rapidly, many new developments must be built to help accommodate. In this project, I prepare a mock proposal providing a double phased plan for both Fort Collins and Loveland. Each of the planned developments fulfill the following building codes to comply with CO building codes (codes are unofficial for the purpose of the exercise):
+  Adjacent to existing residential districts
+  Further than 100m from protected open space / natural area
+  Further than 100m from surface water
+
+![](Base Map.jpg)
+
+As seen in this map, the two cities are relatively close to each other and share many of the surrounding areas.
+
+![](Zoning Map.jpg)
+
+This second graphic can help to plan the new developments. With the residential districts now visible, developments that are within the feasible area and are adjacent to the identified residential districts can be plotted. For each city, two phases were presented to help accommodate for growth over time. This first phase plots developments within 3km of existing urban boundaries while phase 2 extends the limit to 5km.
+
+![](FC Phase 1.jpg)
+
+![](FC Phase 2.jpg)
+
+![](Loveland Phase 1.jpg)
+
+![](Loveland Phase 2.jpg)
+
