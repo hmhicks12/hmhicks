@@ -6,7 +6,7 @@ widget: contact
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 130
@@ -18,14 +18,12 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
-  form:
-    provider: formspree
-    formspree:
-      id: test
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+ # Email form provider
+#  0: Disable email form
+#  1: Netlify (requires that the site is hosted by Netlify)
+#  2: formspree.io
+email_form : 1
++++
 
 design:
   columns: '2'
