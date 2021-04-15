@@ -13,9 +13,9 @@ main:
   #- name: Projects
    # url: '/projects/'
     #weight: 30
-  - name: Contact
-    url: '#contact'
-    weight: 80
+  #- name: Contact
+   # url: '#contact'
+    #weight: 80
   - name: Resume
     url: '/resume/'
     weight: 70
