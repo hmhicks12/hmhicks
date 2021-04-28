@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-## Fort Hill Analysis
+### Fort Hill Analysis
 
 The first section of the project show 3D images of Fort Hill, Ohio. The first image shows the Digital Surface Model (DSM) while the second shows the Digital Terrain Model (DTM).
 
@@ -29,13 +29,12 @@ Next, a hillshade layer was created to help better visualize the terrain. For re
 
 ![](Fort Hill Hillshade copy.jpg)
 
-The two figures below use a graphical approach to display the height of Fort Hill. 
+The two figures below use a graphical approach to display the height of Fort Hill. The first image shows a profile graph reading from the NW corner to the SE corner of the Fort Hill Park. The second image reads from the SW corner to the NE corner of the Fort Hill Park.
 
 ![](ProfileGraphNWSE2 copy.png)
-Profile Graph reading from the NW corner to the SE corner of the Fort Hill Park.
+
 
 ![](ProfileGraphSWNE copy.png)
-Profile Graph reading from the SW corner to the NE corner of the Fort Hill Park.
 
 Next, to help visualize the Fort Hill canopy height, a hillshade image and a raster histogram were created.
 ![](Fort Hill Trees copy.jpg)
@@ -45,7 +44,10 @@ Lastly, this image shows the tallest Fort Hill Earthworks trees as well as gaps 
 ![](Fort Hill Trees copy.jpg)
 
 
-## Newark Analysis
+
+
+
+### Newark Analysis
 
 For the second half of this project, Newark Ohio's landscape will be visualized. The first image shows the buildings and trees in the area.
 
@@ -54,5 +56,6 @@ For the second half of this project, Newark Ohio's landscape will be visualized.
 Secondly, the Qgis2threejs plugin will be used again to help visualize the landscape in a 3D rendering. The images below are screenshots.
 
 ![](Screen Shot 2021-04-28 at 2.45.33 PM copy.png)
+
 ![](Screen Shot 2021-04-28 at 2.46.16 PM copy.png)
 ![](Screen Shot 2021-04-28 at 2.46.46 PM copy.png)
