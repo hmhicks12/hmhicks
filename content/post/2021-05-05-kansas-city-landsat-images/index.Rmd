@@ -1,0 +1,35 @@
+---
+title: Kansas City LANDSAT Images
+author: Harrison Hicks
+date: '2021-05-05'
+slug: kansas-city-landsat-images
+categories: []
+tags: []
+subtitle: 'A collection of images showing the heat island effect and vegetation density in Kansas City.'
+summary: 'A collection of images showing the heat island effect and vegetation density in Kansas City.'
+authors: []
+lastmod: '2021-05-05T16:10:48-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+This project includes four images providing different ways to interpret the heat island effect in Kansas City.
+
+![](True Color Layout copy.jpg)
+This first image shows a base LANDSAT image of Kansas City that allows us to get familiar with the space.
+
+![](Heat Island Layout copy.jpg)
+Secondly, this image show the heat island effect in two different ways. The darker reds in each image signify higher temperatures.
+
+![](Green Infrastructure copy.jpg)
+This image helps to show vegetation density within Kansas City. The two view allow us to see green space from two different viewpoints.
+
+![](Rendered Layer copy.jpg)
+Lastly, this rendered map shows a combination of vegetation areas and the heat island effect. This map blends two of the previous images to give a new rendered LANDSAT image.
+
+
+
