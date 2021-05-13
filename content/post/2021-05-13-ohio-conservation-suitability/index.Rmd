@@ -1,0 +1,35 @@
+---
+title: Ohio Conservation Suitability
+author: Harrison Hicks
+date: '2021-05-13'
+slug: ohio-conservation-suitability
+categories: []
+tags: []
+subtitle: 'An analysis of potential areas of conservation within Licking County, Ohio.'
+summary: 'An analysis of potential areas of conservation within Licking County, Ohio.'
+authors: []
+lastmod: '2021-05-13T15:44:41-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+This project will determine while 100m by 100m plots of land within Licking County are suitable for conservation. To determine suitability, these variables will be used:
+- Within a 100m radius of existing woodlands
+- Within a 100m radius of existing stream or wetland
+- Further than 100m from roadway
+- Further than 100m from railway
+
+![](Licking County copy.jpg)
+This first map shows the Licking County municipalities are roadways to help the view gain their barrings for the maps to come.
+
+![](Woods and Water copy.jpg)
+The two maps shown here display existing woodlands, streams and wetlands within Licking County.
+
+![](Suitable Areas copy.jpg)
+This map shows suitable conservation areas within Licking County. These areas were creating using the variables listed above and the select my location feature.
+
+![](suitable focus copy.jpg)
+Lastly, this image hypothesizes where a potential conservation area could be constructed. This area was selected simply of the bases that it was the largest visible cluster within the Licking County boundary.
